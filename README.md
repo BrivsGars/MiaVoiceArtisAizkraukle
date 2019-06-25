@@ -2,7 +2,7 @@
 Home control system for peoples with functional disabilities.
 http://artissvoks.wixsite.com/centrs4?lang=en
 
-1. Lift on the rails will be the first care system we will connect to MiaVoice.
+1. Lift on the rails will be the first care system we will install and connect to MiaVoice.
 
   What we nead: electro motor for mouving mini trains on rails;
   What we nead: rails for mini trains all aroun the roof;
