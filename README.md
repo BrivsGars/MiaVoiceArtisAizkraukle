@@ -8,7 +8,7 @@
 
   We nead: electric motor for mouving mini train on the rails;
   We nead: rails for train all aroun the roof, walls and flour;
-  We nead: house with walls and roof;
+  We nead: room 3m x 7m x 2,55m (x,y,z) ass a standart;
   That all stuff works on a batterys.
   
   ...
