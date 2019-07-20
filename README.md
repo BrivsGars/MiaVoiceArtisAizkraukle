@@ -1,4 +1,4 @@
-# MiaVoice is a home control system for persons with functional disabilities, more about this.. http://artissvoks.wixsite.com/centrs4?lang=en
+# MiaVoice is a Smart Home control system for persons with functional disabilities, more about this.. http://artissvoks.wixsite.com/centrs4?lang=en
   
   Why Do We Need It?
   
