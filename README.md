@@ -11,4 +11,4 @@
   We nead: room 3m x 7m x 2,55m (x,y,z) ass a standart;
   That all stuff works on a batterys.
   
-  ...
+# MiaVoice wake up you Monday morning and help you with youroure daily cares.
