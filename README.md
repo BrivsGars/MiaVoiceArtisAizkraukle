@@ -1,4 +1,4 @@
-# MiaVoice is a Smart Home control system for persons with functional disabilities, more about this.. http://artissvoks.wixsite.com/centrs4?lang=en
+# MiaVoice is a #SmartHome control system for persons with functional disabilities, more about this.. http://artissvoks.wixsite.com/centrs4?lang=en
   
   Why Do We Need It?
   
@@ -6,9 +6,9 @@
   
   What Exactly Do We Weed? 
 
-  We nead: electric motor for mouving mini train on the rails;
-  We nead: rails for train all aroun the roof, walls and flour;
-  We nead: room 3m x 7m x 2,55m (x,y,z) ass a standart;
+  We nead: quiet electric motors-reducers for mouving mini trains on the rails;
+  We nead: rails for these "trains" all aroun the roof, walls and the flour;
+  We nead: room 3m x 7m x 2,55m (x,y,z) ass a standart for this tehnologie;
   That all stuff works on a batterys.
   
-# MiaVoice wake up you Monday morning and help you with your daily cares.
+# MiaVoice wake up you for Monday mornings and help you with your daily cares.
