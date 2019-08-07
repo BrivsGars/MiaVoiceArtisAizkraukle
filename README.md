@@ -11,4 +11,4 @@
   We nead: room 3m x 7m x 2,55m (x,y,z) ass a standart for this tehnologie;
   That all stuff works on a batterys.
   
-# MiaVoice wake up you for Monday mornings and help you with your daily cares.
+  MiaVoice wake up you for Monday mornings and help you with your daily cares.
