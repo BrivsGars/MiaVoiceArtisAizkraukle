@@ -1,4 +1,4 @@
-# MiaVoice is a #Smart#Home control system for persons with functional disabilities, for more about this.. http://artissvoks.wixsite.com/centrs4?lang=en
+# #Mia#Voice is a #Smart#Home control system for persons with functional disabilities, for more about this.. http://artissvoks.wixsite.com/centrs4?lang=en
   
   # Why Do We Need It?
   
@@ -11,5 +11,4 @@
   We nead: room 3m x 7m x 2,55m (x,y,z) ass a standart for this tehnologie;
   That all stuff works on a batterys.
   
-  # MiaVoice wake up you at Monday morning &
-  # and help you with your daily cares.
+  # #Mia#Voice wake up you at Monday morning & help you with your daily cares.
