@@ -6,9 +6,9 @@
   
   # What Exactly Do We Weed? :P
 
-  We nead: quiet electric motors-reducers for mouving mini trains on the rails;
-  We nead: rails for these "trains" all aroun the roof, walls and the flour
-  We nead: room 3m x 7m x 2,55m (x,y,z) ass a standart for this tehnologie;
-  That all stuff works on a batterys.
+  We nead: quiet electric motor-reducer for mouving mini trains on the rails;
+  We nead: rails for these "trains" all aroun the roof, walls and the flour;
+  We nead: room 3m x 7m x 2,55m (x,y,z) ass a standart for these technologies;
+  All that stuff works on a batterys.
   
   # Mia Voice wake up you at Monday mornings & help you with your daily cares.
