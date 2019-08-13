@@ -6,9 +6,9 @@
   
   # Technical Support What We Need
 
-  We nead: quiet electric motor and reducer for mouving mini trains on the rails;
+  We nead: quiet electric motor and a lot of electronic reducers for mouving mini trains on the rails;
   We nead: rails for these "trains" all aroun the roof, walls and the flour;
   We nead: room 3m x 7m x 2,55m (x,y,z) ass a standart room for these technologies;
-  All that stuff works on a hidrolic, 12 V batterys and magnetic releys. we need the guy who helped us with this.
+  All that stuff works on a hidrolic, 12 V batterys and magnetic relays.
   
   # Mia Voice wake up you at Monday mornings & help you with your daily cares.
