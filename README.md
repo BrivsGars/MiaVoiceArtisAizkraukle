@@ -1,4 +1,4 @@
-# Mia Voice is an interface for smart home voice controlled devices for persons with functional disabilities, for more about this.. http://artissvoks.wixsite.com/centrs4?lang=en
+# Mia Voice is a smart home interface for voice controlled devices that a paralyzed person can controlU. For more about this.. http://artissvoks.wixsite.com/centrs4?lang=en
   
   # Why Do We Need It?
   
