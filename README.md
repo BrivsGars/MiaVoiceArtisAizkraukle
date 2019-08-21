@@ -11,4 +11,4 @@
   We need: room 3m x 7m x 2,55m (x,y,z) ass a standart room for these technologies;
   All that stuff works on a hidrolic, 12 V batterys and magnetic relays.
   
-  # Mia Voice wake up you at Monday mornings & help you with your daily cares.
+  # Mia Voice wake up you at monday mornings & help you with your daily cares.
