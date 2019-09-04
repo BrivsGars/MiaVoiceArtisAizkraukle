@@ -6,7 +6,7 @@
 
   # Technical Support What We Need
 
-  We need: quiet electric motor and a lot of electronic reducers for moving hospital bed & mini trains on the rails all around the home;
+  We need: a quiet electric motor and a lot of electronic reducers for moving hospital bed & mini trains on the rails all around the home;
   We need: rails for these "trains" all around the roof, walls and flour;
   We need: room 3m x 7m x 2,55m (x,y,z) ass a standard room for these technologies;
   All that stuff works on 506625 Pa hydraulic, 12 V battery's, and a lot of magnetic relays, only one electric pump.
