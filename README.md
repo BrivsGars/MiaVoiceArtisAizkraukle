@@ -1,4 +1,4 @@
-# Mia Voice helps you in your smart home with voice controlled devices that a paralyzed person can control.
+# MiaVoice helps you in your smart home with voice controlled devices that a paralyzed person can control.
 
   # Why Do We Need MiaVoice API's?
 
