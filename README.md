@@ -33,6 +33,7 @@ export default class HelloWorldApp extends Component {
 }
 
 // Skip this line if using Create React Native App
+
 AppRegistry.registerComponent('HelloWorld', () => HelloWorldApp);
 
 // The ReactJS code can also be imported into another component with the following code:
