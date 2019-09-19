@@ -15,7 +15,7 @@
   
   # Why React Native?
   
-  The same reason - one single code for all platforms. And a nice, readable, abstract style. 
+  One single code for all platforms. And a nice, readable, abstract style. 
   
   # Hello World Example
   
