@@ -13,7 +13,7 @@
 
   # Mia Voice wake up you at Monday mornings & helps you with your daily cares.
   
-  # Why React Native?
+  # React Native
   
   One single code for all platforms. And a nice, readable, abstract style. 
   
@@ -27,7 +27,7 @@ import { AppRegistry, Text } from 'react-native';
 export default class HelloWorldApp extends Component {
   render() {
     return (
-      <Text>Hello world!</Text>
+      < Text >Hello world!< /Text >
     );
   }
 }
